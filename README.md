@@ -3,7 +3,7 @@ TicTacToe console-based game built in Python with three game modes: 1v1, normal 
 
 <ins>Three game modes avaliable</ins>
 <br>
-**play_1v1()c** - play againsts your friends if you have any
+**play_1v1()** - play againsts your friends if you have any
 <br>
 **play_ai()** - play against an ai which a child could beat
 <br>
